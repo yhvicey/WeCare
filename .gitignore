@@ -1,0 +1,12 @@
+# Folders
+.vs/
+.vscode/
+build/
+drop/
+node_modules/
+publish/
+
+# Files
+*.log
+*proj.user
+launchSettings.json
